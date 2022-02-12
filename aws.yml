@@ -4,8 +4,8 @@
   vars:
 
     keypair_name: "ansible"
-    access_key: "AKIATXRAUEYFBD3FDOXY"
-    secret_key: "rADl+wPxUFjrmWfqvqeHYOTBhqiv5kEn3I8tP51X"
+    access_key: "Enter your access key"
+    secret_key: "Enter your secret key"
     region: "ap-south-1"
     security_group1: "ansible-remote"
     security_group2 : "ansible-webserver"
