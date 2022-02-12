@@ -38,14 +38,14 @@ git clone https://github.com/jebincvarghese/Ansible-Dynamic-Inventory-Of--Autosc
 ```
 2. 
 ```
-cd ansible_ec2-dynamic-inventry/
+cd Ansible-Dynamic-Inventory-Of--Autoscaling-EC2/
 ```
 
 3. Make the required changes in files for variables -aws_ec2.var and website.vars
 
 4. Finally, you can run the ansible playbook using the command,
 ```
- ansible-playbook main.yml
+ ansible-playbook aws.yml
 ```
 
 ## Result
